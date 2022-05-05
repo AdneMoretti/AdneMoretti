@@ -8,5 +8,8 @@
 ### I'm learning more about   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>                                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="50" height="50"/>
+
+
 ### How to find me
 [![Linkedin Badge](https://img.shields.io/badge/-Adne%20Moretti-6633cc?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adne-moretti-moreira-b4875b1b0/)](https://www.linkedin.com/in/adne-moretti-moreira-b4875b1b0/) 
