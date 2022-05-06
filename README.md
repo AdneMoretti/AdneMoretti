@@ -1,4 +1,4 @@
-### Hi there! I'm Adne Moretti.
+### Hi there! I'm Adne Moretti. :wave:
 - I'm a Software Engineering student at Universidade de Brasília. 
 - I'm a software development intern at [Zapay Pagamentos](https://usezapay.com.br/).  
 - I'm currently training python at [Pubnic](https://pubnic.com.br/).
