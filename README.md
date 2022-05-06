@@ -1,6 +1,6 @@
 ### Hi there! I'm Adne Moretti.
 - I'm a Software Engineering student at Universidade de Brasília. 
-- I'm a software development intern at [Zapay Pagamentos](https://usezapay.com.br/).
+- I'm a software development intern at [Zapay Pagamentos](https://usezapay.com.br/).  
 - I'm currently training python at [Pubnic](https://pubnic.com.br/).
 - I'm in love about challenges and learn new things.
 - I'm currently learning about python and frameworks like django and fastAPI.
@@ -15,3 +15,6 @@
 
 ### How to find me
  <a href="https://www.linkedin.com/in/adne-moretti-moreira-b4875b1b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+
+<img src="https://media.giphy.com/media/SX71qs3TDxVkvbLJ4o/giphy.gif" width="300" height="300"><img/>
