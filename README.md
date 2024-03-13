@@ -1,8 +1,7 @@
 ### Hi there! I'm Adne Moretti. :wave:
 - I'm a Software Engineering student at Universidade de Brasília. 
-- I'm a software developer intern at [Frexco](https://www.frexco.com.br/).  
-- I'm currently training python at [Pubnic](https://pubnic.com.br/).
-- I'm in love about challenges and learn new things.
+- I'm a software IT Project Manager at [Frexco](https://www.frexco.com.br/).  
+- I love challenges and learn new things.
 - I'm currently learning about python and frameworks like django and fastAPI.
 ### Technologies
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>                                             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>                                                                                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40" height="40"/>                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>                                                                                                            
