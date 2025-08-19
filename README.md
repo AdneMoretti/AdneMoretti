@@ -1,6 +1,6 @@
 ### Hi there! I'm Adne Moretti. :wave:
 - I'm a Software Engineering student at Universidade de Brasília. 
-- I'm currently an IT Project Manager at [Lacuna](https://www.lacunasoftware.com.br/).  
+- I'm currently a Software Developer at [Lacuna](https://www.lacunasoftware.com.br/).  
 - I love challenges and learn new things.
 - I'm an ICPC contestant;
 
